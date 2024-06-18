@@ -23,7 +23,7 @@ MPI, Message Passing Interface, es un estándar para la programación paralela d
 ### Modelos para los que se aplican
 
 **OpenMP** se aplica al modelo de memoria compartida, ideal para sistemas con múltiples núcleos o procesadores que comparten el mismo espacio de memoria. **MPI** se aplica al modelo de memoria privada o distribuida, adecuado para sistemas donde cada nodo tiene su propia memoria local y se comunican mediante el uso de mensajes.
-
+***
 ## Bibliografia
-[Wikipedia](https://es.wikipedia.org/wiki/OpenMP)
+[Wikipedia](https://es.wikipedia.org/wiki/OpenMP)  
 [Post-Blog-Linkedin](https://www.linkedin.com/advice/0/what-pros-cons-using-openmp-vs-mpi-shared?lang=es&originalSubdomain=es)
