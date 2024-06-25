@@ -11,7 +11,7 @@ El esquema **Maestro-Esclavo** se refiere a un modelo informático jerárquico q
 
 Se aplica normalmente en bases de datos, renderizado de gráficos, simulaciones científicas. Su capacidad para facilitar la gestión de tareas complejas y garantizar una ejecución sincronizada también lo convierte en una opción buena para la computación distribuida.
 
-![Imagen](https://www.researchgate.net/profile/Enrique-Pardo-Vega/publication/279531120/figure/fig4/AS:391513944150022@1470355606652/Figura-4-Modelo-Maestro-Esclavo-El-maestro-es-el-que-inicia-un-requerimiento-de.png)  
+![Imagen](https://www.researchgate.net/publication/303315467/figure/fig1/AS:363164937015298@1463596676419/Figura-2-Esquema-de-replicacion-maestro-esclavo-de-MySql-3-Caso-de-Estudio.png)  
 ***
 En la **Granja de procesos** o **Cluster de computadoras/procesos**, se aplica a los sistemas distribuidos de granjas de computadoras unidos entre sí normalmente por una red de alta velocidad y que se comportan como si fuesen un único servidor. A cada uno de los elementos del cluster se le conoce como nodo, que pueden tener uno o varios sistemas operativos. Otro componente importante de una granja o cluster es la interfaz de la red, la cual es responsable de transmitir y recibir los paquetes de datos, que viajan a través de la red entre los nodos.
 
