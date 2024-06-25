@@ -16,6 +16,7 @@ int main(){
         scanf("%lf",&numeros[i]);
     }
 
+    //Si quiero configurar cuantos hilos se usa ( con 4 hilos: omp_set_num_threads(4); )
     //Implementacion del paralelismo OpenMP
     #pragma omp parallel for reduction(+:suma)
     for (int i = 0; i < n; i++){
